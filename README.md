@@ -45,9 +45,6 @@ For any inquiries or feedback, please reach out to:
 
 <p align="center">👤<strong>Hariharan Kaushik</strong></p>
 
-
- **Hariharan Kaushik**
-
 - GitHub: [@Kaushik-23-2003](https://github.com/Kaushik-23-2003)
 - Email: [kaushikhariharan2003@gmail.com](mailto:kaushikhariharan2003@gmail.com)
 - LinkedIn: [Hariharan Kaushik](https://www.linkedin.com/in/hariharan-kaushik-67188b1b5/)
