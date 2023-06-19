@@ -28,11 +28,9 @@ To run this project, follow the steps below:
 2. Open the Jupyter Notebook file `NLP_Duplicate_Question.ipynb`.
   
 3. Execute the code cells in the notebook to perform the necessary data preprocessing, model training, and evaluation.
-<pre>
-   <code>
-   jupyter notebook NLP_Duplicate_Question.ipynb
-   </code>
-</pre>
+    ```
+    jupyter notebook NLP_Duplicate_Question.ipynb
+    ```
 
 Please ensure that you have Jupyter Notebook installed and configured before running the notebook file.
 
