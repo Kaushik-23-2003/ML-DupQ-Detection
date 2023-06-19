@@ -43,7 +43,10 @@ Contributions are welcome! If you have any ideas or suggestions to improve the p
 
 For any inquiries or feedback, please reach out to:
 
-👤 **Hariharan Kaushik**
+<p align="center">👤<strong>Hariharan Kaushik</strong></p>
+
+
+ **Hariharan Kaushik**
 
 - GitHub: [@Kaushik-23-2003](https://github.com/Kaushik-23-2003)
 - Email: [kaushikhariharan2003@gmail.com](mailto:kaushikhariharan2003@gmail.com)
