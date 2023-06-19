@@ -2,16 +2,18 @@
 
 Accomplished the development and evaluation of machine learning models to detect duplicate questions in online communities, specifically using a dataset from Quora. 🌐🔁
 
+
 ## Project Description 🚀
 The **ML-DupQ-Detection** repository focuses on developing advanced machine learning models to identify and classify duplicate questions in online communities. By leveraging various machine learning algorithms and techniques, including natural language processing and text similarity metrics, this project aims to significantly enhance the quality and relevance of discussions in online platforms.
 
 
 ## Key Features :sparkles:
 
-✅ Leveraged various machine learning algorithms and techniques
-✅ Applied natural language processing and text similarity metrics
-✅ Identifies similar questions and classifies them as duplicates
-✅ Enhances the quality and relevance of online discussions
+- ✅ Leveraged various machine learning algorithms and techniques
+- ✅ Applied natural language processing and text similarity metrics
+- ✅ Identifies similar questions and classifies them as duplicates
+- ✅ Enhances the quality and relevance of online discussions
+
 
 ## Installation :computer:
 
@@ -20,16 +22,18 @@ The **ML-DupQ-Detection** repository focuses on developing advanced machine lear
    git clone https://github.com/Kaushik-23-2003/ML-DupQ-Detection.git
 
 2. Install the required dependencies:
-  <pre>
-  <code>
-  pip install -r requirements.txt
-  </code>
-  </pre>
+     <pre>
+     <code>
+     pip install -r requirements.txt
+     </code>
+     </pre>
 
 3. Run the project:
+   - Open the Jupyter Notebook file `NLP_Duplicate_Question.ipynb`.
+   - Execute the code cells in the notebook to perform the necessary data preprocessing, model training, and evaluation.
+Please ensure that you have Jupyter Notebook installed and configured before running the notebook file.
+
    
-
-
 ## Contribution 🤝 
 Contributions are welcome! If you have any ideas or suggestions to improve the project, feel free to open an issue or submit a pull request. Let's collaborate and make this project even better!
 
