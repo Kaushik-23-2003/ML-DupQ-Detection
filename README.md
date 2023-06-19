@@ -1,2 +1,45 @@
-# ML-DupQ-Detection
-Utilizing a dataset sourced from Quora, the project leverages diverse ML algorithms, including natural language processing and text similarity metrics. By identifying similar questions and accurately classifying them as duplicates, this undertaking significantly enhances the quality and relevance of discussions within online communities.
+# ML-DupQ-Detection 🧠🔍
+
+Accomplished the development and evaluation of machine learning models to detect duplicate questions in online communities, specifically using a dataset from Quora. 🌐🔁
+
+## Project Description 🚀
+The **ML-DupQ-Detection** repository focuses on developing advanced machine learning models to identify and classify duplicate questions in online communities. By leveraging various machine learning algorithms and techniques, including natural language processing and text similarity metrics, this project aims to significantly enhance the quality and relevance of discussions in online platforms.
+
+
+## Key Features :sparkles:
+
+✅ Leveraged various machine learning algorithms and techniques
+✅ Applied natural language processing and text similarity metrics
+✅ Identifies similar questions and classifies them as duplicates
+✅ Enhances the quality and relevance of online discussions
+
+## Installation :computer:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kaushik-23-2003/ML-DupQ-Detection.git
+
+2. Install the required dependencies:
+  <pre>
+  <code>
+  pip install -r requirements.txt
+  </code>
+  </pre>
+
+3. Run the project:
+   
+
+
+## Contribution 🤝 
+Contributions are welcome! If you have any ideas or suggestions to improve the project, feel free to open an issue or submit a pull request. Let's collaborate and make this project even better!
+
+
+## Contact :mailbox:
+
+For any inquiries or feedback, please reach out to:
+
+👤 **Hariharan Kaushik**
+
+- GitHub: [@Kaushik-23-2003](https://github.com/Kaushik-23-2003)
+- Email: [kaushikhariharan2003@gmail.com](mailto:kaushikhariharan2003@gmail.com)
+- LinkedIn: [Hariharan Kaushik](https://www.linkedin.com/in/hariharan-kaushik-67188b1b5/)
